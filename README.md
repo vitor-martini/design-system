@@ -1,4 +1,6 @@
-# Components
+# Design System
+
+## Components
 
 - [ ] Text
 - [ ] Heading
@@ -9,3 +11,7 @@
 - [ ] Checkbox
 - [ ] Avatar
 - [ ] Multistep
+
+## Technologies Used
+- tsup
+- storybook
