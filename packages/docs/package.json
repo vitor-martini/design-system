@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ignite-ui-vitor-martini/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,10 +27,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-ui-vitor-martini/eslint-config": "*",
+    "@ignite-ui-vitor-martini/react": "*",
+    "@ignite-ui-vitor-martini/tokens": "*",
+    "@ignite-ui-vitor-martini/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
