@@ -1,0 +1,2 @@
+import{A as t}from"./index.eb6db63a.js";import"./index.56588e17.js";import"./iframe.5913fcc0.js";import"./index.210b1f1d.js";import"./jsx-runtime.ef55a8be.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/vitor-martini.png",alt:"Vitor Martini"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.07ed35a8.js.map
